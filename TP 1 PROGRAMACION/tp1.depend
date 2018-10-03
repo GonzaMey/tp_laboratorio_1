@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1535576317 source:c:\users\kobe\desktop\gonza\ejercicios facultad\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1535999491 source:c:\users\kobe\desktop\ejercicios facultad\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mey.h"
+
+1535999419 c:\users\kobe\desktop\ejercicios facultad\tp1\mey.h
+
+1535999581 source:c:\users\kobe\desktop\ejercicios facultad\tp1\mey.c
+
+1535999581 source:c:\users\kobe\desktop\ejercicios facultad\tp 1 programacion\mey.c
+
+1536163732 source:c:\users\kobe\desktop\ejercicios facultad\tp 1 programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mey.h"
+
+1535999419 c:\users\kobe\desktop\ejercicios facultad\tp 1 programacion\mey.h
+
